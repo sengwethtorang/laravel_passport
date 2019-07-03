@@ -5,3 +5,5 @@
 4. run migration "php artisan migrate" & run "php artisan db:seed --class=UsersTableSeeder"
 5. run "php artisan passport:install"
 
+Reference : https://laravel.com/docs/5.8/passport
+
